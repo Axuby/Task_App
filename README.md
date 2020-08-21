@@ -1,2 +1,2 @@
 # Task_App
-A Task app  for scheduling task by users
+A Task API for scheduling tasks
